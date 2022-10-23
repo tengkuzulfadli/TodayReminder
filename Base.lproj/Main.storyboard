@@ -38,7 +38,7 @@
                         </connections>
                     </collectionView>
                 </collectionViewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="IeK-GQ-bfI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IeK-GQ-bfI" userLabel="First Responder" customClass="UIResponder" colorLabel="IBBuiltInLabel-Orange" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="41" y="-28"/>
         </scene>
